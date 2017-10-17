@@ -1,5 +1,4 @@
 <?php
-phpinfo();
 
 echo "<h1>PDO demo!</h1>";
 
